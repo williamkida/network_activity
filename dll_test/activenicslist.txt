@@ -1,0 +1,4 @@
+Intel(R) Ethernet Connection (2) I219-V
+Interface ID: \DEVICE\TCPIP_{0078C68E-6D09-4D4C-BBD0-96834F7D4C21}
+Oper Status: Operational
+

@@ -1,0 +1,7 @@
+
+__________GetIPv4EnabledNicsLog
+num IPv4 adapters = 1
+
+----------GetInOctetsLog
+\DEVICE\TCPIP_{0078C68E-6D09-4D4C-BBD0-96834F7D4C21}
+In Octets: 3818332060
